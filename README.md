@@ -4,6 +4,4 @@ Este repositório consiste no projeto final da matéria Eletrônica Embarcada da
 
 O projeto descreve um jogo da memória realizado utilizando A MSP 430 como o microcontrolador, 4 LED´s de 10 mm, um Buzzer e quatro botões, montados em uma protoboard.
 
-Ao iniciar o jogo três Leds acendem, onde o jogador deve selecionar a dificuldade do jogo, a dificuldade varia na quantidade de sequencias que o jogador deverá acertar para ganhar o jogo. A primeira sequencia é formada de apenas um Led piscando, o jogador então deve apertar o botão relacionado ao Led correspondente. Caso acerte, a sequencia aumenta para 2 LED´s piscando e o jogador deve apertar os dois botões correspondentes na sequencia certa.
-
-
+Ao iniciar o jogo três Leds acendem, em seguida o jogador deve selecionar a dificuldade do jogo desejada, a escolha da dificuldade interfere no tamanho da sequencia que o jogador deverá alcançar para ganhar o jogo. A primeira sequencia é formada de apenas um Led piscando, o jogador então deve apertar o botão relacionado ao Led correspondente. Caso acerte, a sequencia aumenta para 2 LED´s piscando e conforme o jogador vai acertando, a sequencia vai aumentando até alcançar o numéro máximo relacionada ao nivel escolhido. 
